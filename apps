@@ -1,0 +1,21 @@
+[app] (name=fbrun)
+  [Position]	(CENTER)	{0 0}
+  [Layer]	{2}
+[end]
+[app] (name=gvim) (class=Gvim) (role=vim-2930-3642493555-1478460087)
+  [Dimensions]	{100% 99%}
+[end]
+[app] (name=win) (class=Xpdf)
+  [Dimensions]	{50% 100%}
+  [Position]	(UPPERLEFT)	{0% 0%}
+[end]
+[app] (name=Navigator) (class=Firefox) (role=browser)
+  [Dimensions]	{50% 100%}
+[end]
+[app] (name=gvim) (class=Gvim) (role=vim-17121-186448282-1488218120)
+  [Dimensions]	{134% 55%}
+[end]
+[app] (name=FoxitReader) (class=Foxit Reader)
+  [Workspace]	{1}
+  [Maximized]	{yes}
+[end]
